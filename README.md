@@ -8,7 +8,7 @@ Python Exercises with REDI School, Coding Fundamental Classes
 This project is to keep track of my coding works along with the REDI. It contains various exercises with loops, functions and data structures in Python. 
 
 ### Files used
-There has been no files yet.
+There is no file which has been used.
 
 
 
